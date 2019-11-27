@@ -28,20 +28,6 @@ perldoc command.
 
     perldoc PPD::Test::RoundRobin
 
-You can also look for information at:
-
-    RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=PPD-Test-RoundRobin
-
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/PPD-Test-RoundRobin
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/PPD-Test-RoundRobin
-
-    Search CPAN
-        http://search.cpan.org/dist/PPD-Test-RoundRobin/
-
 
 LICENSE AND COPYRIGHT
 
